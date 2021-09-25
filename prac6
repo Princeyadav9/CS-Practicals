@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>A poorly-designed frameset document</TITLE>
+</HEAD>
+<FRAMESET cols="50%, 50%">
+   <FRAME src="file:///C:/Users/pc/OneDrive/Desktop/pract3.html">
+   <FRAME src="file:///C:/Users/pc/OneDrive/Desktop/practical4.html">
+</FRAMESET>
+</HTML>
