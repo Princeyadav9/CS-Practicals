@@ -1,0 +1,40 @@
+<!Doctype Html>
+<html>
+<head>
+<title>prac10</title>
+</head>
+<body>
+  <h1>Subscribe to XYZ News Magazine and Emails</h1>
+  <p>Interested in recieving daily small updates of all latest News? 
+  Well, now you can. And best of all, it is free!Just fil out this form and submit it by clicking the "send it in" button.We will put you on our mailing list and you will recieve your first email in 3-5 days.
+  </p>
+  <hr/>
+  <p>Please fill the following boxes to help us send the emails and our news letter.</p>
+  <form>
+  <label for="fname">First name:</label>
+  <input type="text"  id="fname" name="fname"><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br>
+  <label for="Business">Business  :</label>
+  <input type="text" id="Business" name="Business"><br>
+We must have a correct e-mail address to send you the news letter.<br>
+  <label for="Email">Email :</label>
+  <input type="text"  id="Email" name="Email"><br>
+How did you hear about XYZ News Magazine and Emails?<br>
+  <label for="R1">Here on Web</label>
+  <input type= "Radio" Name="Here on web" id="R1" value="here on web">
+  <label for="R2">In a magazine</label>
+  <input type= "Radio" Name="In a magazine" id="R2" value="In a magazine">
+  <label for="R3">Television</label>
+  <input type= "Radio" Name="television" id="R2" value="television">
+  <label for="R4">Other</label>
+  <input type= "Radio" Name="Other" id="R2" value="Other"><br>
+Would you like to be on our regular mailing list?<br>
+  <LABEL FOR="C1">Yes,we love junk emails?</LABEL>
+  <INPUT TYPE="Checkbox" Name="Yes,we love junk emails?" ID="C1" Value="Yes,we love junk emails"
+  <hr/><br/>
+  <input type="Reset">
+  <input type="Send it in!">
+</form>
+</body>
+</html>
