@@ -1,0 +1,22 @@
+<html>
+ <head>
+  <title> PRACTICAL-3 </title>
+</head>
+<body>
+<table cellpadding="12" cellspacing="12" style="width:80%" align="center" valign="center" border="1">
+<tr>
+  <th>h1</th>
+  <th>h2</th>
+  <th>h3</th>
+  <th>h4</th>
+</tr>
+<tr>
+  <td colspan="3">h1</td>
+  <td rowspan="2" img src="photo.jpg"> </img></td>
+</tr>
+<tr>
+  <td colspan="3">h1</td>
+</tr>
+</table>
+</body>
+</html>
