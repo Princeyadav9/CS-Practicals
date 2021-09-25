@@ -1,0 +1,35 @@
+<html>
+ <head>
+  <title> PRACTICAL-5 </title>
+</head>
+<body>
+<table cellpadding="10" cellspacing="10" style="width:50%" align="center" valign="center" border="5">
+<caption> STUDENT DETAILS </caption>
+  <tr> 
+    <th>ROLLNO.</th>
+    <th>STUDENT'S NAME</th>
+    <th>GRADE POINT</th>
+  </tr>
+  <tr> 
+    <td>12</td>
+    <td>Aniket Garg</td>
+    <td>9.1</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Atul Mishra</td>
+    <td>8.4</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Kabir Vashisht</td>
+    <td>9.8</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Saumya Choudhary</td>
+    <td>8.9</td>
+  </tr>
+</table>
+</body>
+</html>
