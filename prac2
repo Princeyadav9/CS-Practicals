@@ -1,0 +1,24 @@
+<html>
+ <head>
+  <title> PRACTICAL-2 </title>
+ </head>
+ <body>
+  <H1> LIBRARIES IN PYTHON </H1>
+  <UL>
+     <LI> Matplotlib 
+     <LI> Pandas 
+     <LI> Numpy 
+     <LI> Pyglet 
+  </UL>
+  <img src="https://tse2.mm.bing.net/th?id=OIP.AsyOAYIeg6OjdK3oahgebQHaE8&pid=Api&P=0&w=228&h=153" ><br/>
+  <H2> MOBILE MANUFACTURERS </H2>
+  <OL TYPE="1">
+     <LI> Samsung
+     <LI> HTC
+     <LI> Micromax
+     <LI> Apple
+  </OL>
+  <a href="https://www.accuranker.com/learn-seo/beginner/guide-to-external-links-for-seo">click here to know about external and internal linking!</a><br />
+  <a href="file:///C:/Users/pc/OneDrive/Desktop/PRAC%201.html">click here for practical-1</a>
+ </body>
+</html>
