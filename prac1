@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE> PRACTICAL-1 </TITLE>
+<STYLE>
+        BLINK {
+            color: #2d38be;
+            font-size: 15px;
+            font-weight: bold;
+        }
+BODY {
+ background-color: bisque;
+ color: Black;
+ font-family: verdana;}
+</style>
+</HEAD>
+<BODY>
+      <H1><marquee width="60%" direction="up" height="60px"> PRACTICAL-1</marquee></H1>
+      <P>This is how a word appears <b> BOLD </b> <br />
+      <P>This is how a word appears <I> ITALIC </I> <br />
+      <P>This is how a word appears <U> UNDERLINE </U> <br />
+      <P><FONT size = "4" face = "comic sans ms" color = "#ff0000" bgcolor = "green">
+         It is a "comic sans ms" red in colour and has font size 4.
+      </FONT>
+      </P>
+      <blink> HTML blink tags are not used these days and are not supported by most browsers. It probably won't work on your current browser. 
+      </blink><br/>
+      <hr />
+      <a href="file:///C:/Users/pc/OneDrive/Desktop/PRAC2.html">click here for practical-2</a>
+</BODY>
+</HTML>
